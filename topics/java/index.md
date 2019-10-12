@@ -1,5 +1,5 @@
 ---
-aliases: java-8, java8, java11, java-11, jvm, jdk, openjdk, javase, java-se
+aliases:java 7 originally launched in 2011, java8 launched in 2014, java-8, java9 released in 2017, java 10 released in March 2018, java11 released in September2018, java-11, jvm, jdk, openjdk, javase, java-se
 created_by: James Gosling
 display_name: Java
 logo: java.png
